@@ -5,7 +5,7 @@ This project was meant to provide a look into the playwriting market for Louise 
 ### Purpose
 This write-up is meant to provide clarity for Louise as to how she should go about funding her upcoming play, using actionaable data from the spreadsheet. 
 ## Analysis and Challenges
-This analysis was performed first by utilizing a regular spreadsheet in Excel, and then by using Pivot Tables and Charts (as shown below) to help expound upon pre-existing data in the spreadsheet. 
+This analysis was performed first by utilizing a regular spreadsheet in Excel, and then by using Pivot Tables and Charts (as shown below) to help expound upon pre-existing data in the spreadsheet. ![Theater_Outcomes_vs_Launch](C:\Users\User_1\Downloads\Data_Analysis_Projects\Theater_Outcomes_vs_Launch.png)
 
 Parent Category	theater			
 Years	(All)			
